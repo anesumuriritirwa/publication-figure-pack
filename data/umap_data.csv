@@ -1,0 +1,10 @@
+cell_id,UMAP_1,UMAP_2,cluster
+C1,1.2,3.4,T_cells
+C2,1.5,3.1,T_cells
+C3,1.0,3.6,T_cells
+C4,4.8,1.2,B_cells
+C5,5.1,1.0,B_cells
+C6,4.9,1.4,B_cells
+C7,7.2,5.9,Myeloid
+C8,7.5,6.1,Myeloid
+C9,7.0,5.7,Myeloid
